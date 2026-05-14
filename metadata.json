@@ -1,0 +1,8 @@
+{
+  "name": "Гангстер: Разборки",
+  "description": "Многопользовательский браузерный шутер в стиле Gangstar Crime City с русским сеттингом.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
